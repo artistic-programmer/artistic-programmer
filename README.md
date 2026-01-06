@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ## 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=kotlin,python,js,html,css,git,github" />
 </p>
