@@ -46,7 +46,3 @@ Here are some ideas to get you started:
 <p>
   <img src="https://skillicons.dev/icons?i=python,go,c" />
 </p>
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artistic-programmer&layout=compact)
