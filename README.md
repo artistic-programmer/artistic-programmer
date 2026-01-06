@@ -20,6 +20,16 @@ Here are some ideas to get you started:
 🎨 Interested in App Development & UI/UX Design  
 🚀 Learning by building, improving every day  
 
+## 🚀 Featured Projects
+
+- **Project Next** (In Progress)  
+  📱 Android app built with Jetpack Compose  
+  🔧 Kotlin • MVVM • Material 3  
+
+- **Previous Full Project**  
+  🌐 Web-based application  
+  🔧 HTML • CSS • JavaScript • Node.js
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Web Development
@@ -36,3 +46,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://skillicons.dev/icons?i=python,go,c" />
 </p>
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artistic-programmer&layout=compact)
