@@ -12,14 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hi, I'm Anshu
+## 👋 Hi, I'm Artistic Programmer
 
-🎓 CS Student  
-📱 Learning Android Development (Jetpack Compose)  
-💻 Exploring Web & Backend  
-🚀 Improving one project at a time
+🎓 CS Student at IIIT Bhubaneswar 
+🔭 Had Prior Knowledge in JS Based Tech
+📱 Learning Android Development (Jetpack Compose)
+💻 Exploring App Dev and UI/UX
+🚀 Improving
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,python,js,html,css,git,github" />
+  💻Web Dev<br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,node" />
 </p>
