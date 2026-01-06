@@ -27,5 +27,9 @@ Here are some ideas to get you started:
 </p>
 <p>
   💻App Dev<br/>
-  <img src="https://skillicons.dev/icons?i=kotlin,jetpack,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=kotlin,jetpackcompose,androidstudio" />
+</p>
+<p>
+  💻System Programming and Prior Hand-Ons<br/>
+  <img src="https://skillicons.dev/icons?i=python,go,c" />
 </p>
