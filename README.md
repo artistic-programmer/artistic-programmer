@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **artistic-programmer/artistic-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hi, I'm Anshu
+
+🎓 CS Student  
+📱 Learning Android Development (Jetpack Compose)  
+💻 Exploring Web & Backend  
+🚀 Improving one project at a time
+
+## 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,git,github" />
+</p>
