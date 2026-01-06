@@ -14,14 +14,18 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi, I'm Artistic Programmer
 
-🎓 CS Student at IIIT Bhubaneswar 
-🔭 Had Prior Knowledge in JS Based Tech
-📱 Learning Android Development (Jetpack Compose)
-💻 Exploring App Dev and UI/UX
-🚀 Improving
+🎓 CS Student at IIIT Bhubaneswar <br/>
+🔭 Had Prior Knowledge in JS Based Tech<br/>
+📱 Learning Android Development (Jetpack Compose)<br/>
+💻 Exploring App Dev and UI/UX<br/>
+🚀 Improving<br/>
 
 ## 🛠️ Languages
 <p>
   💻Web Dev<br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,node" />
+</p>
+<p>
+  💻App Dev<br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,jetpack,androidstudio" />
 </p>
