@@ -1,48 +1,77 @@
-<!--
-**artistic-programmer/artistic-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anshu</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Computer Science Student @ IIIT Bhubaneswar <br>
+Building Android applications with Jetpack Compose while exploring backend development with Go.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 👋 Hi, I'm Artistic Programmer
+---
 
-🎓 Computer Science Student at IIIT Bhubaneswar  
-🧠 Background in JavaScript-based technologies  
-📱 Android Developer in progress (Jetpack Compose)  
-🎨 Interested in App Development & UI/UX Design  
-🚀 Learning by building, improving every day  
+## 🚀 About Me
 
-## 🚀 Featured Projects
+- 🎓 Computer Science Student at **IIIT Bhubaneswar**
+- 📱 Currently focused on **Android Development (Jetpack Compose)**
+- 💻 Learning **Data Structures & Algorithms** using C++
+- ⚙️ Exploring **Backend Development with Go**
+- 🎨 Interested in **UI/UX Design** and building clean user experiences
+- 🌱 Learning by building real-world projects
 
-- **Project Next** (In Progress)  
-  📱 Android app built with Jetpack Compose  
-  🔧 Kotlin • MVVM • Material 3  
-
-- **Previous Full Project**  
-  🌐 Web-based application  
-  🔧 HTML • CSS • JavaScript • Node.js
+---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Web Development
+### 📱 Android
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
-### 📱 Android Development
+### 🌐 Web
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs" />
 </p>
 
-### ⚙️ Systems & General Programming
+### ⚙️ Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,c" />
+<img src="https://skillicons.dev/icons?i=cpp,c,go,python" />
 </p>
+
+### 🗄️ Database & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,figma,postman,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 The Moviz
+A modern Android movie application built with **Jetpack Compose** using the TMDB API.
+
+**Tech:** Kotlin • Jetpack Compose • MVVM • Material 3 • Room
+
+---
+
+### 🔐 GoVault
+A command-line password manager built in Go with encrypted local storage.
+
+**Tech:** Go • Cobra CLI • File Encryption
+
+---
+
+## 📚 Currently Learning
+
+- 📱 Android Architecture (MVVM)
+- ⚡ Jetpack Compose
+- 🧩 Data Structures & Algorithms
+- ☁️ Google Cloud Platform
+- 🏗️ System Design
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/artistic-programmer
+
+---
+
+> *"Learning one concept at a time. Building one project at a time."*
