@@ -13,6 +13,7 @@ Most of my work revolves around **Go, Android development, and building for the 
 Currently exploring **System Design and AI/ML**, strengthening my fundamentals, and building projects along the way.
 
 I like understanding the *why* behind the code, not just getting it to run.
+
 <p align="left">
   <a href="https://github.com/artistic-programmer">
     <img src="https://img.shields.io/badge/GitHub-artistic--programmer-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
@@ -84,14 +85,40 @@ A minimalist, private, offline-first Android expense tracker with transaction ma
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=artistic-programmer&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=artistic-programmer&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://github.com/artistic-programmer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/artistic_programmer/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+ <a href="https://www.linkedin.com/in/artistic-programmer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:artistic.7.programmer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-<p align="center">
-  <i>Learning by building. Improving one project at a time.</i>
-</p>
+<br/>
+
+> From ideas to code. From code to systems.
