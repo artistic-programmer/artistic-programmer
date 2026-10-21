@@ -1,145 +1,97 @@
-<h1 align="center">Hi 👋, I'm Anshu</h1>
+ <!-- Profile README for artistic-programmer -->
 
 <p align="center">
-  Computer Science Student @ IIIT Bhubaneswar <br>
-  Building software, exploring systems, and learning by shipping real projects.
+  <img src="assets/github-banner.png" alt="Anshu's GitHub Profile Banner" width="100%" />
 </p>
 
----
+## Hey, I'm Anshu 👋
 
-## 👨‍💻 About Me
+CS undergrad at **IIIT Bhubaneswar**, interested in how software works under the hood — from backend systems and APIs to the apps people use every day.
 
-* 🎓 Computer Science student at **IIIT Bhubaneswar**
-* 📱 Building **Android applications** with Kotlin & Jetpack Compose
-* ⚙️ Building and exploring **backend systems with Go**
-* 🧩 Strengthening my foundation in **Data Structures & Algorithms with C++**
-* 🗄️ Working with **MongoDB, REST APIs, and backend architecture**
-* 🎨 Interested in **UI/UX and turning ideas into usable products**
-* 🛠️ Learning through **projects, experimentation, and hands-on development**
+Most of my work revolves around **Go, Android development, and building for the web**. I've worked on projects ranging from **GoVault** and **DevLinks API** to **Financy** and the **TechSoc website** at my institute.
 
----
+Currently exploring **System Design and AI/ML**, strengthening my fundamentals, and building projects along the way.
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-</p>
-
-### 📱 Android Development
-
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔗 DevLinks API
-
-A REST API for managing developer profiles and social links, built with Go and MongoDB.
-
-**Tech:** Go • Gin • MongoDB • REST API
-
-**Repository:** `artistic-programmer/devlinks-api`
-
----
-
-### 🔐 GoVault
-
-A command-line password manager built with Go featuring encrypted local storage and password generation.
-
-**Tech:** Go • CLI • Encryption
-
-**Repository:** `artistic-programmer/GoVault`
-
----
-
-### 📋 CLI Task Manager
-
-A command-line task manager built with Go featuring task creation, listing, toggling, deletion, and persistent JSON storage.
-
-**Tech:** Go • CLI • JSON • File I/O
-
-**Repository:** `artistic-programmer/CLI-Task-Manager-Using-GoLang`
-
----
-
-## 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Architecture-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System%20Design-6C3483?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=artistic-programmer&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=artistic-programmer&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📫 Connect
-
-<p>
+I like understanding the *why* behind the code, not just getting it to run.
+<p align="left">
   <a href="https://github.com/artistic-programmer">
-    <img src="https://img.shields.io/badge/GitHub-artistic--programmer-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-artistic--programmer-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
 
 ---
 
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,python,js,kotlin,go&theme=dark" height="40" alt="C++, C, Python, JavaScript, Kotlin, Go" /> |
+| **Android** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" height="40" alt="Android Studio, Kotlin" /> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" height="28" alt="Jetpack Compose" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=go,nodejs,express&theme=dark" height="40" alt="Go, Node.js, Express" /> |
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" height="40" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS" /> |
+| **AI/ML & Data Science** | <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" height="28" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" height="28" alt="Seaborn" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" height="40" alt="MongoDB, SQLite" /> |
+| **Tools & Design** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,neovim,figma&theme=dark" height="40" alt="Git, GitHub, Docker, Postman, Neovim, Figma" /> |
+---
+
+## 🚀 Featured Projects
+
+### 1. [DevLinks API](https://github.com/artistic-programmer/devlinks-api)
+
+A backend API project focused on building and working with web services.
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge" alt="REST API" />
+</p>
+
+### 2. [GoVault](https://github.com/artistic-programmer/GoVault)
+
+A Go-based project showcasing backend development and practical Go programming.
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/CLI-334155?style=for-the-badge" alt="CLI" />
+</p>
+
+### 3. [TechSoc Website](https://github.com/artistic-programmer/techsoc-26)
+
+The official website of TechSoc, the Technical Society of IIIT Bhubaneswar, featuring community initiatives, technical domains, events, team information, and contact pages.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### 4. [Financy — Calm Money Log](https://github.com/artistic-programmer/Financy)
+
+A minimalist, private, offline-first Android expense tracker with transaction management and monthly financial analytics.
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Room_SQLite-FFA000?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room SQLite" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- **AI/ML:** Building foundations with Python, NumPy, Pandas, Matplotlib, and Seaborn.
+- **System Design:** Exploring architecture, scalability, and backend design principles.
+- **Backend Engineering:** Strengthening my Go skills by building practical projects and APIs.
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/artistic-programmer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 <p align="center">
-  <i>Learning by building. Building with purpose.</i>
+  <i>Learning by building. Improving one project at a time.</i>
 </p>
